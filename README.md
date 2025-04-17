@@ -23,7 +23,7 @@ A simple yet powerful note-taking application built with React. This application
 
 1. Clone this repository
    ```bash
-   git clone [<repository-url>](https://github.com/Nikita3301/notes-react.git)
+   git clone https://github.com/Nikita3301/notes-react.git
    ```
 
 2. Navigate to the project directory
